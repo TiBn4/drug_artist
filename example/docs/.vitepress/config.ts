@@ -46,8 +46,8 @@ const sidebarOptions = [
 ]
 
 const themeConfig: ThemeContext = {
-  siteTitle: 'Drug_artist',
-  siteDescription: '副标题',
+  siteTitle: '药物百科',
+  siteDescription: '药物百科 是一个专注于提供高质量药物信息的平台。',
   // baseUrl: '/',
   /** Repo */
   githubRepoLink: 'https://github.com/kazukokawagawa/drug_artist',
